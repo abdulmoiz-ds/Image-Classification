@@ -1,5 +1,5 @@
 # Image-Classification
-Learn how to build an image classification model using Supervised Learning in this Data Science project. Enhance it with data augmentation and transfer learning
+Learn how to build an image classification model using Supervised Learning in this Data Science project. Enhance it with data augmentation and transfer learning. You can follow this guide on [Image Classification](https://wisetechcat.com/image-classification/) for better understanding of code.
 
 1. Gather Data: Collect a dataset of images that you want to classify. You can use public datasets such as CIFAR-10 or ImageNet, or create your own dataset by gathering images from the internet.
 
